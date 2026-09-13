@@ -54,11 +54,10 @@ I'm a freelance developer working on both **SEO** and **web/Android app developm
 
 </div>
 
-> ⚠️ For **private commits** to count toward these stats: **Settings → Profile → Contributions & Activity → ✅ Include private contributions on my profile**
 
 ---
 
-### 🐍 Animated Contribution Snake
+
 
 <div align="center">
 
