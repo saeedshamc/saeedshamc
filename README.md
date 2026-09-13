@@ -1,7 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/saeedshamc/saeedshamc/blob/main/README.md"><img src="https://img.shields.io/badge/🇮🇷-مطالعه_به_فارسی-2ea44f?style=for-the-badge" /></a>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=200&section=header&text=Saeed%20Shamsi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SEO%20Specialist%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://saeedshamsi.ir"><img src="https://img.shields.io/badge/PORTFOLIO-saeedshamsi.ir-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="https://www.linkedin.com/in/saeed-shamsi-193a15343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/Ssh503"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="mailto:saeedshams2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
